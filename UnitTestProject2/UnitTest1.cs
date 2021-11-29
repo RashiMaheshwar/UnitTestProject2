@@ -9,7 +9,7 @@ namespace UnitTestProject2
         [Test]
         public void TestMethod1()
         {
-            Console.WriteLine("hello");
+            Console.WriteLine("hello ");
         }
         [Test]
         public void TestMethod2()
