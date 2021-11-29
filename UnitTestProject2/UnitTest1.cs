@@ -18,7 +18,7 @@ namespace UnitTestProject2
         }
         
           [Test]
-        public void TestMethod2()
+        public void TestMethod3()
         {
             Console.WriteLine("hello 12345");
         }
