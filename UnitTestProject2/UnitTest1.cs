@@ -16,5 +16,11 @@ namespace UnitTestProject2
         {
             Console.WriteLine("hello 12345");
         }
+        
+          [Test]
+        public void TestMethod2()
+        {
+            Console.WriteLine("hello 12345");
+        }
     }
 }
